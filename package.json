@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-
   "scripts": {
     "test": "nodemon index.js"
   },
@@ -15,5 +14,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixu-94/routerconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mixu-94/routerconfig/issues"
+  },
+  "homepage": "https://github.com/mixu-94/routerconfig#readme"
 }
